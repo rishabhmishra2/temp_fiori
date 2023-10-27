@@ -1,6 +1,6 @@
 console.log("from fiori_analysis_script");
 
-// SC analysis - start
+// SC analysis - start   
 
 // Check if application has global elements
 
